@@ -1,1 +1,3 @@
-1. Configured [Swagger](http://localhost:8080/swagger-ui.html)
+A project developed as a part of ANZ Hackathon.
+
+AI Document Processing for Automating business processes. 
